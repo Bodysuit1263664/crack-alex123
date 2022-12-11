@@ -13,12 +13,12 @@ Es una herramienta de automatización de spam de mensajes de texto a un número 
 #
 [-] python3
 # INSTALACIÓN
-git clone https://github.com/Darkmux/SETSMS
+git clone https://github.com/Bodysuit1263664/crack-alex123
 #
 cd SETSMS
 #
 chmod 777 SETSMS.sh
 #
 bash SETSMS.sh
-# Creado por Darkmux
+# modificado por Alex
 # ©WHITE HACKS
