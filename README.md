@@ -15,7 +15,7 @@ Es una herramienta de automatización de spam de mensajes de texto a un número 
 # INSTALACIÓN
 git clone https://github.com/Bodysuit1263664/crack-alex123
 #
-cd SETSMS
+cd crack-alex123
 #
 chmod 777 SETSMS.sh
 #
